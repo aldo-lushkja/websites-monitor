@@ -1,8 +1,14 @@
 websites:
   - aldolushkja.it
+  - blog.aldolushkja.it
+  - www.aldolushkja.it
   - lushkja.it
+  - www.lushkja.it
+  - coder-utils.aldolushkja.it
+  - www.coder-utils.aldolushkja.it
   - auth0.aldolushkja.it
 output_file: README.md
 max_workers: 2
 timeout: 30
 github_workflow_badge: https://github.com/aldo-lushkja/websites-monitor/actions/workflows/create-report.yml/badge.svg
+pagespeed_api_key: ${{ secrets.PAGESPEED_API_KEY }}
