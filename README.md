@@ -110,10 +110,15 @@ For any issues or suggestions regarding this project, feel free to open an issue
 
 
 
-This report was automatically generated on 2025-01-04 13:00:09 UTC.
+This report was automatically generated on 2025-01-04 13:20:44 UTC.
 
 | Website | Domain breach | Domain Expiration | SSL Certificate | DNS Blacklists | DomainsBlacklists | HSTS | XSS Protection | Redirect chains | Pagespeed | Load Time | Rate Limiting | CDN | Brotli | Deprecated Libraries | Client Rendering | Mixed Content | Content-Type | i18n | FLoC | AMP | Robots.txt | Sitemap | Favicon | Alt Tags | Open Graph | Semantic Markup | Ad Tracking | WHOIS Privacy | Privacy Exposure |
 |---------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-aldolushkja.it | ⚪ | 🟢 (338 days left) | 🟢 (364 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | ⚪ | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟠 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | ⚪ | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟡 | 🔴 | 🟢 |
-lushkja.it | ⚪ | 🟢 (194 days left) | 🟢 (350 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | ⚪ | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | ⚪ | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 |
+aldolushkja.it | ⚪ | 🟢 (338 days left) | 🟢 (364 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 99 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟠 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | ⚪ | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟡 | 🔴 | 🟢 |
+blog.aldolushkja.it | ⚪ | 🟢 (338 days left) | 🟢 (84 days left) | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 100 | 🟢 | 🔴 | ⚪ | 🟢 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🟢 | 🟢 | 🟠 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 |
+www.aldolushkja.it | ⚪ | 🟢 (338 days left) | 🔴 | 🟢 | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | 🔴 | ⚪ | 🔴 | ⚪ | ⚪ | ⚪ | 🔴 | ⚪ | 🔴 | ⚪ |
+lushkja.it | ⚪ | 🟢 (194 days left) | 🟢 (350 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 99 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | ⚪ | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 |
+www.lushkja.it | ⚪ | 🟢 (194 days left) | 🟢 (350 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 96 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | ⚪ | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 |
+coder-utils.aldolushkja.it | ⚪ | 🟢 (338 days left) | 🟢 (366 days left) | 🟢 | 🟢 | 🔴 | 🔴 | 🟢 | 90 | 🟢 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🟢 | 🔴 | 🟢 | 🔴 | 🔴 | 🟢 | 🔴 | 🟢 | 🟢 | 🔴 | 🔴 | 🟡 | 🔴 | 🟢 |
+www.coder-utils.aldolushkja.it | ⚪ | 🟢 (338 days left) | 🔴 | 🟢 | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | 🔴 | ⚪ | 🔴 | ⚪ | ⚪ | ⚪ | 🔴 | ⚪ | 🔴 | ⚪ |
 auth0.aldolushkja.it | ⚪ | 🟢 (338 days left) | 🟢 (83 days left) | 🟢 | 🟢 | ⚪ | ⚪ | 🟠 | ⚪ | ⚪ | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ | ⚪ | ⚪ | 🔴 | 🟢 | 🔴 | ⚪ |
